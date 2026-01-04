@@ -48,7 +48,7 @@ mini-ecommerce-react/
 ├── package.json
 ├── README.md
 
-
+```
 
 ## How to Run Locally
 ```bash
