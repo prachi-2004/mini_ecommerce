@@ -23,6 +23,8 @@ state management, and core React fundamentals.
 - https://dummyjson.com/products
 
 ## Project Structure
+
+```bash
 mini-ecommerce-react/
 │
 ├── public/
